@@ -1,2 +1,25 @@
-# dashboard-vendas-powerbi
-Projeto de Dashboard de Vendas desenvolvido no Power BI para estudo de BI e DAX.
+# 📊 Dashboard de Vendas – Power BI
+
+Projeto desenvolvido para estudo de Business Intelligence com foco em estágio na área de dados.
+
+## 🔎 Objetivo
+Analisar vendas por:
+- Estado
+- Produto
+- Período
+- Participação percentual
+
+## 📌 Métricas Criadas
+- Total de Vendas
+- Quantidade de Vendas
+- Ticket Médio
+- % do Total (usando CALCULATE e ALL)
+
+## 🛠 Ferramentas Utilizadas
+- Power BI Desktop
+- DAX
+- Excel
+
+## 📷 Dashboard
+
+![Dashboard](dashboard.png)
